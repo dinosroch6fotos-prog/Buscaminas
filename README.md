@@ -1,2 +1,2 @@
 # Buscaminas
-Este repositorio contendra un proyecto recreando el juego de buscaminas
+Este repositorio contendra un proyecto basado en recrear el juego de buscaminas
